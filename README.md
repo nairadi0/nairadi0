@@ -1,16 +1,20 @@
 ## Hi there 👋
+CS grad from Oregon State University. I build backend systems and developer tools | Currently working as a Software Development Engineer Intern at Micro Systems Engineering, Inc.
 
-<!--
-**nairadi0/nairadi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm working on
+- **PRism** — AI-powered GitHub PR review agent (ASP.NET Core / PostgreSQL / React / AWS)
+- Learning: AWS Cloud Practitioner cert, Leetcode, OS, Systems Design, Networks
 
-Here are some ideas to get you started:
+## Tech
+**Languages:** Python · C# · TypeScript · JavaScript · C/C++
+**Backend:** .NET / ASP.NET Core · FastAPI · REST APIs
+**Infra:** Kubernetes · Docker · Helm · ArgoCD · Jenkins · CI/CD
+**Cloud & Data:** AWS · PostgreSQL · MongoDB
+**AI:** Gemini API · AI-assisted development (Claude Code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[XYZ — Universal Dependency Manager](https://github.com/xyz-tui/xyz)** — Terminal tool to manage npm/pip/Homebrew dependencies with AI-powered CVE scanning via Gemini API
+- **TextbookAI** — Cross-platform mobile app (React Native / Expo / TypeScript / MongoDB)
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adithya%20Nair-blue)](https://linkedin.com/in/adithya-nair-77722827a)
