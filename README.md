@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Adithya
 CS grad from Oregon State University. I build backend systems and developer tools | Currently working as a Software Development Engineer Intern at Micro Systems Engineering, Inc.
 
 ## What I'm working on
