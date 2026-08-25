@@ -2,7 +2,6 @@
 CS grad from Oregon State University. I build backend systems and developer tools | Currently working as a Software Development Engineer Intern at Micro Systems Engineering, Inc.
 
 ## What I'm working on
-- **PRism** — AI-powered GitHub PR review agent (ASP.NET Core / PostgreSQL / React / AWS)
 - Learning: AWS Cloud Practitioner cert, Leetcode, OS, Systems Design, Networks
 
 ## Tech
